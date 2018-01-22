@@ -17,3 +17,13 @@ This runs kodi as user kodi, and kodi home directory is **/var/lib/kodi**
 
 Enable at boot with  
   `systemctl enable kodi`
+
+# Wifi
+Use example and config as needed  
+  `cp /etc/netctl/examples/wireless-wpa /etc/netctl/wireless-home`  
+  `# set SSID and pswd (nano)`  
+  `netctl start wireless_home`  
+  `# to run @startup`  
+  `netctl enable wireless-home`  
+
+
