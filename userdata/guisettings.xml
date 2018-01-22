@@ -298,7 +298,7 @@
         <upnpannounce default="true">true</upnpannounce>
         <upnpcontroller default="true">false</upnpcontroller>
         <upnplookforexternalsubtitles default="true">false</upnplookforexternalsubtitles>
-        <upnprenderer default="true">false</upnprenderer>
+        <upnprenderer>true</upnprenderer>
         <upnpserver default="true">false</upnpserver>
         <useairplaypassword default="true">false</useairplaypassword>
         <webserver>true</webserver>
