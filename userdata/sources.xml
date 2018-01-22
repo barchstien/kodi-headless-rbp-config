@@ -1,0 +1,10 @@
+<sources>
+<music>
+	<default>Main Music Collection</default>
+	<source>
+		<name>Main Music Collection</name>
+		<path>/var/lib/kodi/.kodi/media/music</path>
+		<allowsharing>true</allowsharing>
+	</source>
+</music>
+</sources>
